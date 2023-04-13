@@ -1,4 +1,4 @@
-# I'm an Android developer 
+# Hi, i'm an Android developer and student of MIREA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibaevzz&layout=compact&text_color=ffffff&card_width=1000&theme=dark&bg_color=000000&hide_border=true)](https://github.com/ibaevzz)
 
